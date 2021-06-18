@@ -4,8 +4,12 @@ The application is a basic drawing utility like a paint brush software on window
 # Dependencies
 C++ Language
 # Requirements
-64 Bit Windows / Open Source Linux & its derivatives.
-Open Source Programming Tools like G++/GCC, C++ IDE (Visual Studio Code or visual studio or any other).
+1. 64 Bit Windows / Open Source Linux & its derivatives.
+2. Open Source Programming Tools like G++/GCC, C++ IDE (Visual Studio Code or visual studio or any other).
+3. create a new empty Win32 Project
+4. add the header files and source files to your project
+5. build and run the PaintSource.cpp file
+
 # Drawing Mechanism
 ![paint_1](https://user-images.githubusercontent.com/76820984/122594509-8757c680-d080-11eb-8d7b-d10b8d120f43.PNG)
 
